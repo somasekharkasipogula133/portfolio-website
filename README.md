@@ -1,20 +1,26 @@
-# portfolio-website
+# My Portfolio Website
 
+Welcome to my personal portfolio website! This project is a showcase of my skills and projects as a frontend web developer.
 
-Welcome to my portfolio! This repository showcases my personal projects and skills as a developer. 
+## Features:
+- **Responsive Design**: The website is fully responsive, ensuring a great user experience on both desktop and mobile devices.
+- **Interactive Portfolio Section**: A collection of my completed projects with links to GitHub repositories and live demos.
+- **Contact Form**: A fully functional contact form that allows visitors to reach out to me directly.
 
-## Projects Included:
-- **To-Do List App**: A simple and intuitive to-do list application to manage daily tasks, built with HTML, CSS, and JavaScript.
-- **Frontend Mentor Challenge (QR Code Component)**: A responsive QR code component design that follows modern web development best practices.
+## Screenshots:
 
-## Skills:
-- **Languages**: Python, HTML, CSS, JavaScript
-- **Tools**: Git, GitHub, Visual Studio Code
+### Homepage:
+![Homepage Screenshot](./assets/website_homepage.png)
 
-Feel free to browse the projects and provide feedback. I'm open to collaboration and always eager to learn and improve.
+### Contact Page:
+![Contact Page Screenshot](./assets/website_contact.png)
 
-### Connect with me:
-- [LinkedIn](www.linkedin.com/in/somasekharkasipogula)
-- [GitHub]([https://github.com/your-username](https://github.com/somasekharkasipogula133))
+## Technologies Used:
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Responsive Design (Flexbox, Grid)**
 
+## How to View:
+You can view the live version of my portfolio website [here](https://your-website-link.com).
 
