@@ -22,7 +22,8 @@ Welcome to my personal portfolio website! This project is a showcase of my skill
 ## Screenshots:
 
 ### Homepage:
-![Homepage Screenshot](./assets/website_homepage.png)
+![Homepage Screenshot](./assets/b41950b2-b7d2-4553-89f7-37db7371cf40).
+
 
 ### Contact Page:
 ![Contact Page Screenshot](./assets/website_contact.png)
